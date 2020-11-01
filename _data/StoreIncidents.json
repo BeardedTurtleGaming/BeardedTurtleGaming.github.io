@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 1000,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -81,13 +81,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 7000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
-		"price": 7000,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 700,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -207,7 +202,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -357,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -396,5 +391,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 78
 }

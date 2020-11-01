@@ -363,9 +363,39 @@
     "data": {
       "isShortcut": false
     },
+    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+    "name": "Viewer health",
+    "usage": "!mypawnhealth [capacity]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows an overview of your pawn's needs.",
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows an overview of your pawn's gear.",
+    "name": "Viewer gear",
+    "usage": "!mypawngear",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows an overview of your pawn's body.",
+    "name": "Viewer body",
+    "usage": "!mypawnbody",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -536,33 +566,6 @@
     "description": "Provides some information about supported things. Supported categories are: weapons",
     "name": "Database",
     "usage": "!rwdata <category/weaponname> [weaponname]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "name": "My pawn gear",
-    "usage": "!mypawngear",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "name": "My pawn health",
-    "usage": "!mypawnhealth",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "name": "My pawn body",
-    "usage": "!mypawnbody",
     "userLevel": "Anyone",
     "shortcut": false
   },
